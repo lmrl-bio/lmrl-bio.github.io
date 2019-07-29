@@ -1,6 +1,6 @@
 # Learning Meaningful Representations of Life at NeurIPS 2019
 
-Learning Meaningful Representations of Life (LMRL) is a full-day workshop to be held on Dec 13 or 14 as part of the 33rd Neural Information Processing Systems in Vancouver, Canada.
+Learning Meaningful Representations of Life (LMRL) is a full-day workshop to be held on Dec 13 or 14 as part of the 33rd Neural Information Processing Systems conference in Vancouver.
 
 The last decade has seen both machine learning and biology transformed: the former by the ability to train complex predictors on massive labelled data sets; the latter by the ability to perturb and measure biological systems with staggering throughput, breadth, and resolution. In the next decade, machine learning and biomedicine are poised to alloy.
 
@@ -25,13 +25,56 @@ Coming soon
 ## Lead organizers
 
 Jonathan Bloom
+
 Yakir Reshef
+
 Elizabeth Wood
 
 ## Co-organizers, team leaders, and speakers
 
+Barbara Engelhardt
+
+Casey Greene
+
+Scott Linderman
+
+Kresten Lindorff-Larsen
+
+Chang Liu
+
+Debora Marks
+
+Suchi Saria
+
+Gopal Sarma
+
+Jasper Snoek
+
+Alex Wiltschko
+
+Alex Bloemendal
+
+Wouter Boomsma
+
+Danilo Bzdok
+
+Anne Carpenter
+
+David Kelley
+
+Anshul Kundaje
+
+Allon Klein
+
+Soumya Raychaudhuri
+
+Nikolai Slavov
+
+Rediet Abebe
+
+Daphne Koller
+
 Aviv Regev
-Many more
 
 ## Sponsors
 
