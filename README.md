@@ -1,6 +1,6 @@
-# Learning Meaningful Representations of Life at NeurIPS 2019
+# Learning Meaningful Representations of Life
 
-Learning Meaningful Representations of Life (LMRL) is a full-day workshop to be held on Dec 13 or 14 as part of the 33rd Neural Information Processing Systems conference in Vancouver.
+Learning Meaningful Representations of Life (LMRL) is a full-day workshop to be held on December 13 or 14 as part of the 33rd Conference on Neural Information Processing Systems in Vancouver, [NeurIPS 2019](https://nips.cc/Conferences/2019/).
 
 The last decade has seen both machine learning and biology transformed: the former by the ability to train complex predictors on massive labelled data sets; the latter by the ability to perturb and measure biological systems with staggering throughput, breadth, and resolution. In the next decade, machine learning and biomedicine are poised to alloy.
 
@@ -24,57 +24,57 @@ Coming soon
 
 ## Lead organizers
 
-Jonathan Bloom
+Jonathan Bloom, Broad Institute
 
-Yakir Reshef
+Yakir Reshef, Harvard Medical School
 
-Elizabeth Wood
+Elizabeth Wood, JURA Bio
 
 ## Co-organizers, team leaders, and speakers
 
-Barbara Engelhardt
+Barbara Engelhardt, Princeton University
 
-Casey Greene
+Casey Greene, University of Pennsylvania
 
-Scott Linderman
+Scott Linderman, Stanford University
 
-Kresten Lindorff-Larsen
+Kresten Lindorff-Larsen, University of Copenhagen
 
-Chang Liu
+Chang Liu, University of California, Irvine
 
-Debora Marks
+Debora Marks, Harvard Medical School
 
-Suchi Saria
+Suchi Saria, Johns Hopkins University
 
-Gopal Sarma
+Gopal Sarma, Broad Institute
 
-Jasper Snoek
+Jasper Snoek, Google Brain
 
-Alex Wiltschko
+Alex Wiltschko, Google Brain
 
-Alex Bloemendal
+Alex Bloemendal, Broad Institute
 
-Wouter Boomsma
+Wouter Boomsma, University of Copenhagen
 
-Danilo Bzdok
+Danilo Bzdok, RWTH Aachen University
 
-Anne Carpenter
+Anne Carpenter, Broad Institute
 
-David Kelley
+David Kelley, Calico
 
-Anshul Kundaje
+Anshul Kundaje, Stanford University
 
-Allon Klein
+Allon Klein, Harvard Medical School
 
-Soumya Raychaudhuri
+Soumya Raychaudhuri, Harvard Medical School
 
-Nikolai Slavov
+Nikolai Slavov, Northeastern University
 
-Rediet Abebe
+Rediet Abebe, Cornell University
 
-Daphne Koller
+Daphne Koller, insitro
 
-Aviv Regev
+Aviv Regev, Broad Institute
 
 ## Sponsors
 
