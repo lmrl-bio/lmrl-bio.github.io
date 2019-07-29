@@ -26,7 +26,7 @@ Coming soon
 
 Jonathan Bloom, Broad Institute
 
-Yakir Reshef, Harvard Medical School
+Yakir Reshef, MIT and Harvard Medical School
 
 Elizabeth Wood, JURA Bio
 
