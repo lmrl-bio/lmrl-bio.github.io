@@ -40,7 +40,7 @@ Scott Linderman, Stanford University
 
 Kresten Lindorff-Larsen, University of Copenhagen
 
-Chang Liu, University of California, Irvine
+Chang Liu, University of California Irvine
 
 Debora Marks, Harvard Medical School
 
