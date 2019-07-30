@@ -24,7 +24,13 @@ Yakir Reshef, MIT and Harvard Medical School
 
 Elizabeth Wood, JURA Bio
 
-## Co-organizers, team leads, and speakers
+## Speakers, co-organizers, team leads
+
+Aviv Regev, Broad Institute
+
+Daphne Koller, insitro
+
+Rediet Abebe, Cornell University
 
 Barbara Engelhardt, Princeton University
 
@@ -61,12 +67,6 @@ Allon Klein, Harvard Medical School
 Soumya Raychaudhuri, Harvard Medical School
 
 Nikolai Slavov, Northeastern University
-
-Rediet Abebe, Cornell University
-
-Daphne Koller, insitro
-
-Aviv Regev, Broad Institute
 
 ## Operations Team
 
