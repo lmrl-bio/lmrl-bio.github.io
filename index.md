@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Learning Meaningful Representations of Life
 
 Learning Meaningful Representations of Life (LMRL) is a full-day workshop to be held on December 13 or 14 as part of the 33rd Conference on Neural Information Processing Systems in Vancouver, [NeurIPS 2019](https://nips.cc/Conferences/2019/).
 
@@ -17,14 +16,6 @@ Follow on Twitter [@lmrl_bio](https://twitter.com/lmrl_bio).
 
 Register email.
 
-## Call for posters
-
-Coming soon
-
-## Schedule
-
-Coming soon
-
 ## Lead organizers
 
 Jonathan Bloom, Broad Institute
@@ -33,7 +24,7 @@ Yakir Reshef, MIT and Harvard Medical School
 
 Elizabeth Wood, JURA Bio
 
-## Co-organizers, team leaders, and speakers
+## Co-organizers, team leads, and speakers
 
 Barbara Engelhardt, Princeton University
 
@@ -48,8 +39,6 @@ Chang Liu, University of California Irvine
 Debora Marks, Harvard Medical School
 
 Suchi Saria, Johns Hopkins University
-
-Gopal Sarma, Broad Institute
 
 Jasper Snoek, Google Brain
 
@@ -79,6 +68,8 @@ Daphne Koller, insitro
 
 Aviv Regev, Broad Institute
 
-## Sponsors
+## Operations Team
 
-Coming soon
+Emma Stickgold, Broad Institute
+
+Gopal Sarma, Broad Instutute
