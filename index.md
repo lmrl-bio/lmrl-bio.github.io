@@ -13,7 +13,7 @@ To seize this opportunity, we will bring together current and future leaders wit
 
 ## Participate!
 
-Follow on Twitter @lmrl_bio.
+Follow on Twitter [@lmrl_bio](https://twitter.com/lmrl_bio).
 
 Register email.
 
