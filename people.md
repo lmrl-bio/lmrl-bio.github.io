@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-# People
-
 ## Lead organizers
 
 Jonathan Bloom, Broad Institute
