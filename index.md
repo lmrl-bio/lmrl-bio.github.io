@@ -7,8 +7,8 @@ However, fundamentally new ideas in machine learning are needed to translate bio
 
 To seize this opportunity, we will bring together current and future leaders within each field to introduce the next generation of machine learnists to the next generation of biological problems. Our full-day workshop will start a deeper dialogue with the goal of *Learning Meaningful Representations of Life* (LMRL), emphasizing interpretable representation learning of structure and principles. The workshop will address this problem at five layers of biological abstraction:
 
-| Genome | Molecule | Cell | System | Phenome |
-|--------|----------|------|--------|---------|
+<p>| Genome | Molecule | Cell | System | Phenome |
+|:------:|:--------:|:----:|:------:|:-------:|</p>
 
 ## Participate
 
