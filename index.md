@@ -5,10 +5,10 @@ The last decade has seen both machine learning and biology transformed: the form
 
 However, fundamentally new ideas in machine learning are needed to translate biomedical data at scale into a mechanistic understanding of biology and disease at a level of abstraction beyond single genes. At the same time, the methodological advances necessary to realize this vision have the potential to drive the next decade of creativity in machine learning as the field grapples with how to move beyond prediction to a regime that broadly catalyzes and accelerates scientific discovery.
 
-To seize this opportunity, we will bring together current and future leaders within each field to introduce the next generation of machine learnists to the next generation of biological problems. Our full-day workshop will start a deeper dialogue with the goal of *Learning Meaningful Representations of Life* (LMRL), emphasizing interpretable representation learning of structure and principles. The workshop will address this problem at five layers of biological abstraction:
+To seize this opportunity, we will bring together current and future leaders within each field to introduce the next generation of machine learnists to the next generation of biological problems. Our full-day workshop will start a deeper dialogue with the goal of *Learning Meaningful Representations of Life* (LMRL), emphasizing interpretable representation learning of structure and principles. The workshop will address this problem at five layers of biological abstraction.
 
-<p>| Genome | Molecule | Cell | System | Phenome |
-|:------:|:--------:|:----:|:------:|:-------:|</p>
+| Genome | Molecule | Cell | System | Phenome |
+|:------:|:--------:|:----:|:------:|:-------:|
 
 ## Participate
 
