@@ -9,13 +9,9 @@ To seize this opportunity, we will bring together current and future leaders wit
 
 ## Participate
 
-The workshop will held on December 13 or 14 at [NeurIPS 2019](https://nips.cc/Conferences/2019/) in Vancouver.
-
-Register email.
-
 <a href="https://twitter.com/lmrl_bio?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @lmrl_bio</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The main conference sells out quickly and the workshops may as well. We recommend [registering here](https://nips.cc/Register/view-registration) on September 6 at 8am PDT (11am EST), refundable until November 28.
+The workshop will be on December 13 or 14 at [NeurIPS 2019](https://nips.cc/Conferences/2019/) in Vancouver. The main conference sells out quickly and the workshops may as well. We recommend [registering](https://nips.cc/Register/view-registration) on September 6 at 8am PDT (11am EST), refundable until November 28.
 
 ## Contact
 
