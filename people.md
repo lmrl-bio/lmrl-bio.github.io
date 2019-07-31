@@ -3,11 +3,11 @@ layout: default
 ---
 ## Core organizers
 
-Jonathan Bloom, Broad Institute
+Elizabeth Wood, JURA Bio
 
 Yakir Reshef, MIT and Harvard Medical School
 
-Elizabeth Wood, JURA Bio
+Jonathan Bloom, Broad Institute
 
 ## Speakers, co-organizers, and team leads
 
