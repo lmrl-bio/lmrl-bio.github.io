@@ -7,14 +7,15 @@ However, fundamentally new ideas in machine learning are needed to translate bio
 
 To seize this opportunity, we will bring together current and future leaders within each field to introduce the next generation of machine learnists to the next generation of biological problems. Our full-day workshop will start a deeper dialogue with the goal of *Learning Meaningful Representations of Life* (LMRL), emphasizing interpretable representation learning of structure and principles. The workshop will address this problem at five layers of biological abstraction.
 
+
 | Genome | Molecule | Cell | System | Phenome |
 |:------:|:--------:|:----:|:------:|:-------:|
 
 ## Participate
 
-<a href="https://twitter.com/lmrl_bio?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @lmrl_bio</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 The workshop will be on December 13 or 14 at [NeurIPS 2019](https://nips.cc/Conferences/2019/) in Vancouver. The main conference sells out quickly and the workshops may as well. We recommend [registering](https://nips.cc/Register/view-registration) on September 6 at 8am PDT (11am EST), refundable until November 28.
+
+<a href="https://twitter.com/lmrl_bio?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @lmrl_bio</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Contact
 
