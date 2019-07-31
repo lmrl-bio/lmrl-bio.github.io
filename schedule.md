@@ -2,7 +2,7 @@
 layout: default
 ---
 
-|      | Preliminary Schedule      |
+|      | Schedule                  |
 |------|---------------------------|
 | 8am  | Opening Remarks           |
 |      | Biology & ML Keynotes     |
@@ -13,3 +13,8 @@ layout: default
 |      | Panel Debates             |
 |      | Closing Remarks           |
 | 5pm  | Poster Reception          |
+
+The workshop will feature five parallel, interactive, and structured breakout sessions, each corresponding to one layer of abstraction and led by a diverse team of biologists, machine learnists, and multilingual interpreters familiar with both fields.
+
+| Genome | Molecule | Cell | System | Phenome |
+|--------|:--------:|-----:|--------|---------|
