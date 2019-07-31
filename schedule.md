@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The workshop will feature five parallel, interactive, and structured breakout sessions, each corresponding to one biological layer and led by a diverse team of biologists, machine learnists, and multilingual interpreters to facilitate discussion.
+The workshop will feature five parallel, interactive, and structured breakout sessions, each corresponding to one biological layer and led by a diverse team of experimentalists, machine learnists, and multilingual interpreters to facilitate substantive discussion.
 
 |      | Schedule                  |
 |------|---------------------------|
