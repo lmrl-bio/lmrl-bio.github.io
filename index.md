@@ -15,4 +15,4 @@ Register email.
 
 <a href="https://twitter.com/lmrl_bio?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @lmrl_bio</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Please direct all workshop related questions to: lmrl.neurips.2019@gmail.com
+Contact: lmrl.neurips.2019@gmail.com
