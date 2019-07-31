@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Lead organizers
+## Core organizers
 
 Jonathan Bloom, Broad Institute
 
@@ -9,7 +9,7 @@ Yakir Reshef, MIT and Harvard Medical School
 
 Elizabeth Wood, JURA Bio
 
-## Speakers, co-organizers, team leads
+## Speakers, co-organizers, and team leads
 
 Aviv Regev, Broad Institute
 
@@ -53,8 +53,12 @@ Soumya Raychaudhuri, Harvard Medical School
 
 Nikolai Slavov, Northeastern University
 
-## Operations Team
+## Operations team
 
 Emma Stickgold, Broad Institute
 
 Gopal Sarma, Broad Instutute
+
+## Contact
+
+lmrl.neurips.2019@gmail.com
