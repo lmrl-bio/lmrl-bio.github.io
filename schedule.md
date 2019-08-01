@@ -12,6 +12,6 @@ The workshop will feature five parallel, interactive, and structured breakout se
 |      | Team Breakouts (parallel) |
 |      | Team Reflections          |
 | 3pm  | Lightning Talks           |
-|      | Panel Debates             |
+|      | Panel Discussions         |
 |      | Closing Remarks           |
 | 5pm  | Poster Reception          |
