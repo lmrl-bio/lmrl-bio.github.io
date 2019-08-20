@@ -24,7 +24,7 @@ In doing so, submissions might consider any of the following:
 - What existing data is most relevant and what new experimental capacities would be most helpful?
 - What existing work is most inspiring and what does it lack?
 - What aspects of machine learning are most relevant and where is progress needed?
-- What predictive tasks might best support representation learning?
+- How might predictive tasks best support representation learning?
 - How might creative benchmarks or community standards focus our efforts?
 - How might closing the loop on experiment and computation accelerate our efforts?
 - How might we effectively make and measure progress together, across machine learning and biology, academia and industry?
