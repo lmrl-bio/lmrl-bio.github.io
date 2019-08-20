@@ -49,4 +49,4 @@ Abstracts will be evaluated through double-blind review for originality, clarity
 
 Note that we cannot guarantee workshop registration, so it is critical to **register yourself** starting at 8am PDT on September 6, fully refundable until November 28.
 
-Questions? Contact us at lmrl.neurips.2019@gmail.com
+Questions? Contact us at <a href = "mailto: lmrl.neurips.2019@gmail.com">lmrl.neurips.2019@gmail.com</a>
