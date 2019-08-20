@@ -37,9 +37,9 @@ If your first language is experimental or computational biology, imagine your re
 
 Deadlines are Mondays by midnight, PDT.
 
-- **Sep 15: Deadline for abstract and travel award submission.**
-- Sep 30: Notification of selection, posters, talks, and travel awards.
-- Dec 9: Deadline for uploading posters and slides.
+- **September 15: Deadline for abstract and travel award submission.**
+- September 30: Notification of selection, posters, talks, and travel awards.
+- December 9: Deadline for uploading posters and slides.
 
 Submit an abstract using this form:
 
@@ -47,6 +47,6 @@ Submit an abstract using this form:
 
 Abstracts will be evaluated through double-blind review for originality, clarity, quality, and relevance. Abstracts may have multiple authors; in fact, we encourage interdisciplinary submissions. Conversely, one author may appear on multiple abstracts to which they have significantly contributed. Previously published material is welcome provided it is topical and would promote interesting discussion; please note it as such. Authors retain full copyright and selection does not preclude publication of the same material in another journal or conference.
 
-Note that we cannot guarantee workshop registration, so it is critical to **register yourself** for the NeurIPS workshop days once registration opens at 8am PDT on Sep 6. The fee is fully refundable until Nov 28.
+Note that we cannot guarantee workshop registration, so it is critical to **register yourself** starting at 8am PDT on September 6, fully refundable until November 28.
 
 Questions? Contact us at lmrl.neurips.2019@gmail.com
