@@ -19,10 +19,10 @@ To seize this opportunity, we will bring together current and future leaders wit
 
 LMRL is a structured means of building community. To share your ideas and join the conversation, [submit a short abstract](https://lmrl-bio.github.io/call) and [apply for a travel award](https://lmrl-bio.github.io/travel) by September 15.
 
+<a href="https://twitter.com/lmrl_bio?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @lmrl_bio</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 The workshop will be held on December 13 or 14 at [NeurIPS 2019](https://nips.cc/Conferences/2019/) in Vancouver. The main conference sells out quickly and the workshops may as well. We recommend [registering](https://nips.cc/Register/view-registration) on September 6 at 8am PDT (11am EST), refundable until November 28.
 
 ## Pre-Register
 
 Send an email to <a href = "mailto: lmrl.neurips.2019@gmail.com">lmrl.neurips.2019@gmail.com</a> to join our mailing list and receive announcements.
-
-<a href="https://twitter.com/lmrl_bio?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @lmrl_bio</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
