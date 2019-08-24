@@ -49,6 +49,8 @@ Anshul Kundaje, Stanford University
 
 Allon Klein, Harvard Medical School
 
+Samantha Morris, Washington University
+
 Soumya Raychaudhuri, Harvard Medical School
 
 Nikolai Slavov, Northeastern University
