@@ -37,7 +37,7 @@ If your first language is experimental or computational biology, imagine your re
 
 Deadlines are Mondays by midnight, PDT.
 
-- **September 15: Deadline for abstract and travel award submission.**
+- **September 16: Deadline for abstract and travel award submission.**
 - September 30: Notification of selection, posters, talks, and travel awards.
 - December 9: Deadline for uploading posters and slides.
 
