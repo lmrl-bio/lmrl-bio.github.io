@@ -31,7 +31,7 @@ In doing so, submissions might consider any of the following:
 
 We encourage submissions of all kinds, including work focused on questions rather than answers and creative visions for interdisciplinary progress. Submissions may range from entirely experimental to entirely theoretical -- provided they aspire to be relevant to cross-disciplinary engagement.
 
-To that end, we encourage the following to the extent sensible without sacrificing precision: if your first language is experimental or computational biology, imagine your reader is fascinated by biology but has not taken a course since college. If your first language is machine learning, imagine your reader is data savvy but has limited advanced training in machine learning. For examples of research and communication at this interface, see the [Models, Inference & Algorithms playlist](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS).
+To that end, we encourage the following to the extent sensible without sacrificing conceptual precision: if your first language is experimental or computational biology, imagine your reader is fascinated by biology but has not taken a course since college. If your first language is machine learning, imagine your reader is data savvy but has limited advanced training in machine learning. For examples of research and communication at this interface, see the [Models, Inference & Algorithms playlist](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS).
 
 ## Guidelines
 
