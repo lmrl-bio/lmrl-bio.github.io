@@ -63,6 +63,8 @@ Sergey Ovchinnikov, Harvard University
 
 Joshua Weinstein, University of Chicago
 
+Ray Jones, Broad Institute
+
 ## Operations team
 
 Molly Gallagher, Broad Institute
