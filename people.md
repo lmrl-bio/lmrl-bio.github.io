@@ -1,13 +1,19 @@
 ---
 layout: default
 ---
-## Core organizers
+## Conference Contacts
 
-Elizabeth Wood, JURA Bio
+<a href="mailto:lmrl.neurips.2019@gmail.com">Elizabeth Wood</a>
+  
+<a href="lmrl.neurips.2019@gmail.com">Ray Jones</a>
+
+## Founding Team
+
+Jonathan Bloom, Broad Institute
 
 Yakir Reshef, MIT and Harvard Medical School
 
-Jonathan Bloom, Broad Institute
+Elizabeth Wood, JURA Bio and Broad Institute
 
 ## Speakers, co-organizers, and team leads
 
@@ -55,7 +61,13 @@ Soumya Raychaudhuri, Harvard Medical School
 
 Nikolai Slavov, Northeastern University
 
+Sergey Ovchinnikov, Harvard University
+
+Joshua Weinstein, University of Chicago
+
 ## Operations team
+
+Molly Gallagher, Broad Institute
 
 Emma Stickgold, Broad Institute
 
