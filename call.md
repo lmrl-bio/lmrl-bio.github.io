@@ -35,9 +35,9 @@ To that end, we encourage the following to the extent sensible without sacrifici
 
 ## Guidelines
 
-Deadlines are Mondays by midnight, PDT.
+Deadlines are by midnight, PDT.
 
-- **September 16: Deadline for abstract and travel award submission.**
+- **September 20: Deadline for abstract and travel award submission.**
 - September 30: Notification of selection, posters, talks, and travel awards.
 - December 9: Deadline for uploading posters and slides.
 
