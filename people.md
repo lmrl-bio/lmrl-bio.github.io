@@ -3,9 +3,7 @@ layout: default
 ---
 ## Conference Contacts
 
-<a href="mailto:lmrl.neurips.2019@gmail.com">Elizabeth Wood</a>
-  
-<a href="lmrl.neurips.2019@gmail.com">Ray Jones</a>
+<a href="mailto:lmrl.neurips.2019@gmail.com">Elizabeth Wood</a> and <a href="lmrl.neurips.2019@gmail.com">Ray Jones</a>
 
 ## Founding Team
 
