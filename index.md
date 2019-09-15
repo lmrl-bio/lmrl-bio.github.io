@@ -12,4 +12,4 @@ The workshop will be held on Friday, December 13 at [NeurIPS 2019](https://nips.
 
 ## Pre-Register
 
-Send an email to <a href = "mailto: lmrl.neurips.2019@gmail.com">lmrl.neurips.2019@gmail.com</a> to join our mailing list and receive announcements.
+<a href = "mailto: lmrl.neurips.2019@gmail.com">Join our mailing list</a> to receive announcements.
