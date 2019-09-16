@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-We are calling for **300-500 word abstracts** from machine learnists, experimental biologists, and everyone in between about topics in machine learning and/or biology with cross-disciplinary relevance (see below). Selected abstracts will be shared online ahead of the workshop and featured in breakout, poster, and lightning talk sessions.
+We are calling for **300-500 word abstracts** on topics in machine learning and/or biology with cross-disciplinary relevance (see below). Following abstract submission, there will be a call for posters that will be judged and displayed on the day of the workshop. Abstracts, if shared, will be shared on the day of the workshop.
 
-We will *not* screen full paper submissions. Rather, following the workshop, we will organize the community to distill insights from our discussions into a white paper on learning meaningful representations of life.
-
-Abstracts selected for talks will be awarded **$250**, equivalent to the workshop registration fee. We encourage those with limited funding to apply for up to **$500** of support under [Travel Awards](https://lmrl-bio.github.io/travel).
+We will *not* screen full paper submissions. Selected abstracts will be awarded **$250**, equivalent to the workshop registration fee. We encourage those with limited funding to apply for up to **$500** of support under [Travel Awards](https://lmrl-bio.github.io/travel).
 
 ## Topics
 
