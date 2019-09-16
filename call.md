@@ -13,7 +13,7 @@ While industry has driven empirical progress in predictive learning, the life sc
 
 To meaningfully address this interdisciplinary question:
 
-- We welcome **machine learnists without biology expertise** to share insights and examples of representation learning from science and industry broadly, from which biologists might draw inspiration.
+- We welcome **machine scientists without biology expertise** to share insights and examples of representation learning from science and industry broadly, from which biologists might draw inspiration.
 - We welcome **experimental and computational biologists** to discuss scientific challenges, experimental capacities, and ways of modelling the genome, biomolecules/drugs, cells, tissues, or organism-level phenotypes like disease and behavior.
 
 In doing so, submissions might consider any of the following:
