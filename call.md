@@ -1,49 +1,18 @@
 ---
 layout: default
 ---
-We are calling for **300-500 word abstracts** on topics in machine learning and/or biology with cross-disciplinary relevance (see below). Following abstract submission, there will be a call for posters that will be judged and displayed on the day of the workshop. Abstracts, if shared, will be shared on the day of the workshop.
+The call for **300-500 word abstracts** is now closed. Thank you to those who submitted. Soon, we will be announcing a call for posters -- stay tuned.
 
-We will *not* screen full paper submissions. Selected abstracts will be awarded **$250**, equivalent to the workshop registration fee. We encourage those with limited funding to apply for up to **$500** of support under [Travel Awards](https://lmrl-bio.github.io/travel).
-
-## Topics
-
-While industry has driven empirical progress in predictive learning, the life sciences are poised to drive a renaissance in representation learning. The central question of LMRL is:
-
-*What do we need -- experimentally and computationally -- to systematically construct, apply, and assess representations of biological systems?*
-
-To meaningfully address this interdisciplinary question:
-
-- We welcome **machine scientists without biology expertise** to share insights and examples of representation learning from science and industry broadly, from which biologists might draw inspiration.
-- We welcome **experimental and computational biologists** to discuss scientific challenges, experimental capacities, and ways of modelling the genome, biomolecules/drugs, cells, tissues, or organism-level phenotypes like disease and behavior.
-
-In doing so, submissions might consider any of the following:
-
-- What scientific challenges are most important and ripe to address?
-- What existing data is most relevant and what new experimental capacities would be most helpful?
-- What existing work is most inspiring and what does it lack?
-- What aspects of machine learning are most relevant and where is progress needed?
-- How might predictive tasks best support representation learning?
-- How might creative benchmarks or community standards focus our efforts?
-- How might closing the loop on experiment and computation accelerate our efforts?
-- How might we effectively make and measure progress together, across machine learning and biology, academia and industry?
-
-We encourage submissions of all kinds, including work focused on questions rather than answers and creative visions for interdisciplinary progress. Submissions may range from entirely experimental to entirely theoretical -- provided they aspire to be relevant to cross-disciplinary engagement.
-
-To that end, we encourage the following to the extent sensible without sacrificing conceptual precision: if your first language is experimental or computational biology, imagine your reader is fascinated by biology but has not taken a course since college. If your first language is machine learning, imagine your reader is data savvy but has limited advanced training in machine learning. For examples of research and communication at this interface, see the [Models, Inference & Algorithms playlist](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS).
-
+We encourage those with limited funding to apply for up to **$500** of support under [Travel Awards](https://lmrl-bio.github.io/travel).
 ## Guidelines
 
 Deadlines are by 11:59PM, PDT.
 
-- **September 20: Deadline for abstract and travel award submission.**
-- September 30: Notification of selection, posters, talks, and travel awards.
+~~- September 20: Deadline for abstract and travel award submission.~~
+- September 30: First notifications of selection and travel awards.
+- **October 1: Poster Call announced.**
+- October 15: Second round of notifications of selection and travel awards.
 - December 9: Deadline for uploading posters and slides.
-
-Submit an abstract using this form:
-
-[https://forms.gle/ub47S8xWGnsVa8Bg8](https://forms.gle/ub47S8xWGnsVa8Bg8)
-
-Abstracts will be evaluated through double-blind review for originality, clarity, quality, and relevance. Abstracts may have multiple authors; in fact, we encourage interdisciplinary submissions. Conversely, one author may appear on multiple abstracts to which they have significantly contributed. Previously published material is welcome provided it is topical and would promote interesting discussion; please note it as such. Authors retain full copyright and selection does not preclude publication of the same material in another journal or conference.
 
 Note that we cannot guarantee workshop registration, so it is critical to **register yourself** starting at 8am PDT on September 6, fully refundable until November 28.
 
