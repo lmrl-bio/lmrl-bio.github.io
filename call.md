@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-The call for **300-500 word abstracts** is now closed. Thank you to those who submitted. Soon, we will be announcing a call for posters -- stay tuned.
+The call for **300-500 word abstracts** is now closed. Thank you to those who submitted and good luck. Soon we will be announcing a call for posters -- thanks for staying tuned.
 
 We encourage those with limited funding to apply for up to **$500** of support under [Travel Awards](https://lmrl-bio.github.io/travel).
 ## Guidelines
