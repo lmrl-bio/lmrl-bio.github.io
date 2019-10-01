@@ -2,8 +2,6 @@
 layout: default
 ---
 
-  <img src="/LRML-LF.jpg" width="256">
-
 ## Speakers and co-organizers
 - Aviv Regev, Broad Institute
 - Daphne Koller, insitro
@@ -30,10 +28,13 @@ layout: default
 - Orr Ashenberg, Broad Institute
 - Mor Nitzan, Harvard University
 - Ray Jones, Broad Institute
-- David Kelley, Calico
+- David Kelley, Calico 
+
 
 ## Conference Contacts
 <a href="mailto:lmrl.neurips.2019@gmail.com">Elizabeth Wood</a> and <a href="lmrl.neurips.2019@gmail.com">Ray Jones</a>
+
+<img src="/LRML-LF.jpg" width="256">
 
 ____
 
