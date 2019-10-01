@@ -41,7 +41,7 @@ Elizabeth Wood, JURA Bio and Broad Institute
 Molly Gallagher, Broad Institute `|`
 Emma Stickgold, Broad Institute `|`
 Jung-Eun Shin, Harvard University `|`
-Gopal Sarma, Broad Instutute `|`
+Gopal Sarma, Broad Instutute
 
 ## Contact
 lmrl.neurips.2019@gmail.com
