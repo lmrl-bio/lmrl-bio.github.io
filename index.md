@@ -28,6 +28,9 @@ LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver 
 [Wouter Boomsma](https://di.ku.dk/) `|`
 [Yixin Wang](http://www.stat.columbia.edu/~yixinwang/) `|` And more to be announced.
 
+
+***
+
 ## Pre-Register
 
 * Important:
