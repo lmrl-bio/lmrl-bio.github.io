@@ -9,9 +9,10 @@ We encourage those with limited funding to apply for up to **$500** of support u
 Deadlines are by 11:59PM, PDT.
 
 ~~- September 20: Deadline for abstract and travel award submission.~~
-- September 30: First notifications of selection and travel awards.
+~~- September 30: First notifications of selection and travel awards.~~
 - **October 1: Poster Call announced.**
-- October 15: Second round of notifications of selection and travel awards.
+- October 20: Poster Call closes.
+- October 25: Second round of notifications of selection and travel awards.
 - December 9: Deadline for uploading posters and slides.
 
 Note that we cannot guarantee workshop registration, so it is critical to **register yourself** starting at 8am PDT on September 6, fully refundable until November 28.
