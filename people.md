@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-## Conference Contacts
-<a href="mailto:lmrl.neurips.2019@gmail.com">Elizabeth Wood</a> and <a href="lmrl.neurips.2019@gmail.com">Ray Jones</a>
 
 ## Speakers and co-organizers
 - Aviv Regev, Broad Institute
@@ -31,6 +29,9 @@ layout: default
 - Mor Nitzan, Harvard University
 - Ray Jones, Broad Institute
 - David Kelley, Calico
+
+## Conference Contacts
+<a href="mailto:lmrl.neurips.2019@gmail.com">Elizabeth Wood</a> and <a href="lmrl.neurips.2019@gmail.com">Ray Jones</a>
 
 ## Founding Team
 Jonathan Bloom, Broad Institute `|` 
