@@ -8,8 +8,6 @@ The Poster call is now open. You can submit yours here until the deadline, Octob
 
 ___
 
-The call for **300-500 word abstracts** is now closed. Congratulations to those of you who were selected. 
-
 ## Guidelines
 
 Deadlines are by 11:59PM, PDT.
