@@ -4,7 +4,7 @@ layout: default
 
 The Poster call is now open. You can submit yours here until the deadline, October 20:
 
-[⎦˚◡˚⎣ ᒡ◯ᵔ◯ᒢ **Poster Call** (ˆ˚ˆ) ¸¸♬·¯·♩¸¸♪·¯·♫¸](https://forms.gle/Unw7hamZEo8p5LrB9)
+[⎦˚◡˚⎣  **Poster Call**   ᒡ◯ᵔ◯ᒢ  ¸¸♬·¯·♩¸¸♪·¯·♫¸](https://forms.gle/Unw7hamZEo8p5LrB9)
 
 ***
 
