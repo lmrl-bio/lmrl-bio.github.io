@@ -6,7 +6,7 @@ layout: default
 
 ***
 
-The workshop will be held on Friday, December 13 at NeurIPS 2019 in Vancouver. The workshop aims to bring together experts in machine learning and biology to discuss what is needed -- experimentally and computationally -- to make large-scale progress on identifying meaningful structure in high-dimensional biological systems. We have contributors to facilitate a set of parallel discussions that will be the centerpiece of the day. The discussions will be oriented around five different levels of biological abstraction (genome, molecule, cell, synthetic, and phenome). We hope you'll join us!
+The workshop will be held on Friday, December 13 at NeurIPS 2019 in Vancouver. The workshop aims to bring together experts in machine learning and biology to discuss what is needed -- experimentally and computationally -- to make large-scale progress on identifying meaningful structure in high-dimensional biological systems. We have contributors to facilitate a set of parallel discussions that will be the centerpiece of the day. The discussions will be oriented around different levels of biological abstraction (genome, molecule, cell, and phenotype). We hope you'll join us!
 
 LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver Convention Center. Talks and discussions by:
 
