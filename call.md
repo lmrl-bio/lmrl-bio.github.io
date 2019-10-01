@@ -20,7 +20,7 @@ Deadlines are by 11:59PM, PDT.
 
 - ~~- September 20: Deadline for abstract and travel award submission.~~
 - ~~- September 30: First notifications of selection and travel awards.~~
-- **October 1: Poster Call announced.**
+- **October 1: Poster Call announced.** [Submit](https://forms.gle/Unw7hamZEo8p5LrB9)
 - October 20: Poster Call closes.
 - October 25: Second round of notifications of selection and travel awards.
 - December 9: Deadline for uploading posters and slides.
