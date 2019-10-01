@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p align="center">
+<p ALIGN=”left” HSPACE=”50” VSPACE=”50”/>
   <img src="/LRML-LF.jpg" width="256">
 </p>
 
@@ -37,12 +37,14 @@ layout: default
 ## Conference Contacts
 <a href="mailto:lmrl.neurips.2019@gmail.com">Elizabeth Wood</a> and <a href="lmrl.neurips.2019@gmail.com">Ray Jones</a>
 
+____
+
 ## Founding Team
 Jonathan Bloom, Broad Institute `|` 
 Yakir Reshef, MIT and Harvard Medical School `|`
 Elizabeth Wood, JURA Bio and Broad Institute
 
-## Operations team
+## Operations Team
 Molly Gallagher, Broad Institute `|`
 Emma Stickgold, Broad Institute `|`
 Jung-Eun Shin, Harvard University `|`
