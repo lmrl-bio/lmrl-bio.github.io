@@ -2,7 +2,9 @@
 layout: default
 ---
 
-![LRML Logo](/LRML-LF.jpg?v=1&s=100)
+<p align="center">
+  <img src="/LRML-LF.jpg" width="256">
+</p>
 
 ## Speakers and co-organizers
 - Aviv Regev, Broad Institute
