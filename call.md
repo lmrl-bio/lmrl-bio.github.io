@@ -1,10 +1,20 @@
 ---
 layout: default
 ---
-The call for **300-500 word abstracts** is now closed. Thank you to those who submitted and good luck. Soon we will be announcing a call for posters -- thanks for staying tuned.
 
-We encourage those with limited funding to apply for up to **$500** of support under [Travel Awards](https://lmrl-bio.github.io/travel).
+The Poster call is now open. You can submit yours here until the deadline, October 20:
+
+[⎦˚◡˚⎣ ᒡ◯ᵔ◯ᒢ **Poster Call** (ˆ˚ˆ) ¸¸♬·¯·♩¸¸♪·¯·♫¸](https://forms.gle/Unw7hamZEo8p5LrB9)
+
+***
+
+The call for **300-500 word abstracts** is now closed. Congratulations to those of you who were selected. 
+
+~~We encourage those with limited funding to apply for up to **$500** of support under [Travel Awards](https://lmrl-bio.github.io/travel).~~
+
 ## Guidelines
+
+___
 
 Deadlines are by 11:59PM, PDT.
 
