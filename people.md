@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<p ALIGN=”left” HSPACE=”50” VSPACE=”50”/>
   <img src="/LRML-LF.jpg" width="256">
-</p>
 
 ## Speakers and co-organizers
 - Aviv Regev, Broad Institute
