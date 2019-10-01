@@ -8,6 +8,9 @@ LMRL will be featuring some of the best efforts in biology and machine learning 
 
 LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver Convention Center. Talks and discussions by:
 
+<center>
+
+
 [Anna Goldenberg](https://www.cs.toronto.edu/~goldenberg/Anna_Goldenberg/Home.html) `|`
 [Anne Carpenter](https://personal.broadinstitute.org/anne/) `|`
 [Aviv Regev](https://www.broadinstitute.org/regev-lab) `|`
@@ -29,13 +32,20 @@ LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver 
 [Yixin Wang](http://www.stat.columbia.edu/~yixinwang/) `|` And more to be announced.
 
 
+</center>
 
 
 
-<a href="https://twitter.com/lmrl_bio?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @lmrl_bio</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+/*:
+  - Important:
+  The workshop will be held on Friday, December 13 at [NeurIPS 2019](https://nips.cc/Conferences/2019/) in Vancouver. Please note that main conference sells out quickly; the workshops may as well. The first round of lottery results have been announced. Unfortuately, we cannot guarantee a spot at the main conference under any condition. We recommend following the NeurIPS page for [registration details](https://nips.cc/Register/view-registration).
+  \
+ */
 
-The workshop will be held on Friday, December 13 at [NeurIPS 2019](https://nips.cc/Conferences/2019/) in Vancouver. Please note that main conference sells out quickly; the workshops may as well. Unfortuately, we cannot guarantee a spot at the main conference under any condition. We recommend following the NeurIPS page for [registration details](https://nips.cc/Register/view-registration).
+
 
 ## Pre-Register
 
 <a href = "mailto: lmrl.neurips.2019@gmail.com">Join our mailing list</a> to receive announcements.
+<a href="https://twitter.com/lmrl_bio?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @lmrl_bio</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
