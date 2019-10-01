@@ -6,15 +6,11 @@ The Poster call is now open. You can submit yours here until the deadline, Octob
 
 [⎦˚◡˚⎣  **Poster Call**   ᒡ◯ᵔ◯ᒢ  ¸¸♬·¯·♩¸¸♪·¯·♫¸](https://forms.gle/Unw7hamZEo8p5LrB9)
 
-***
+___
 
 The call for **300-500 word abstracts** is now closed. Congratulations to those of you who were selected. 
 
-~~We encourage those with limited funding to apply for up to **$500** of support under [Travel Awards](https://lmrl-bio.github.io/travel).~~
-
 ## Guidelines
-
-___
 
 Deadlines are by 11:59PM, PDT.
 
