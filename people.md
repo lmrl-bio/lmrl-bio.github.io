@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![LRML Logo](/LRML-LF.jpg?v=1&s=100)
+
 ## Speakers and co-organizers
 - Aviv Regev, Broad Institute
 - Daphne Koller, insitro
