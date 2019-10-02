@@ -12,9 +12,11 @@ LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver 
 [Anne Carpenter](https://personal.broadinstitute.org/anne/) `|`
 [Aviv Regev](https://www.broadinstitute.org/regev-lab) `|`
 [Chang Liu](https://liulab.com/ccl/) `|`
+[Daphne Koller](https://ai.stanford.edu/users/koller/) `|`
 [Dana Pe’er](https://www.mskcc.org/research/ski/labs/dana-pe-er) `|`
 [David Jones](http://www0.cs.ucl.ac.uk/staff/D.Jones/) `|`
 [David Reshef](http://web.mit.edu/dnreshef/www/) `|`
+[Debora Marks](https://marks.hms.harvard.edu/) `|`
 [Joshua Weinstein](https://wlab.bio/) `|`
 [Kresten Lindorff-Larsen](https://www1.bio.ku.dk/english/research/bms/research/sbinlab/groups/kll/) `|`
 [Matt Johnson](https://people.csail.mit.edu/mattjj/) `|`
