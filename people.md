@@ -11,7 +11,7 @@ layout: default
 - Scott Linderman, Stanford University
 - Kresten Lindorff-Larsen, University of Copenhagen
 - Chang Liu, University of California Irvine
-- Debora Marks, Harvard Medical School
+- **Debora Marks, Harvard Medical School**`**`
 - Suchi Saria, Johns Hopkins University
 - Jasper Snoek, Google Brain
 - Alex Wiltschko, Google Brain
@@ -27,12 +27,14 @@ layout: default
 - Sergey Ovchinnikov, Harvard University
 - Orr Ashenberg, Broad Institute
 - Mor Nitzan, Harvard University
-- Ray Jones, Broad Institute
+- **Elizabeth Wood, JURA Bio and Broad Institute**`**`
+- **Ray Jones, Broad Institute**`**`
 - David Kelley, Calico 
 
+`**` Main Organizer 
 
 ## Conference Contacts
-<a href="mailto:lmrl.neurips.2019@gmail.com">Elizabeth Wood</a> and <a href="lmrl.neurips.2019@gmail.com">Ray Jones</a>
+<a href="mailto:lmrl.neurips.2019@gmail.com">lmrl.neurips.2019@gmail.com</a>
 
 <img src="/LRML-LF.jpg" width="256">
 
