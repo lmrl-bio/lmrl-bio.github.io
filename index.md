@@ -19,6 +19,7 @@ LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver 
 [David Jones](http://www0.cs.ucl.ac.uk/staff/D.Jones/) `|`
 [David Reshef](http://web.mit.edu/dnreshef/www/) `|`
 [Debora Marks](https://marks.hms.harvard.edu/) `|`
+[Djork-Arne Clevert](https://www.bioinf.jku.at/people/clevert/) `|`
 [Eli Van Allen](https://vanallenlab.dana-farber.org/) `|`
 [Joshua Weinstein](https://wlab.bio/) `|`
 [Kresten Lindorff-Larsen](https://www1.bio.ku.dk/english/research/bms/research/sbinlab/groups/kll/) `|`
