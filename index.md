@@ -30,6 +30,7 @@ LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver 
 [Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/) `|`
 [Nir HaCohen](https://www.massgeneral.org/cancerresearch/research/researchlab.aspx?id=1644) `|`
 [Pam Silver](https://silver.med.harvard.edu/) `|`
+[Possu Huang](http://www.proteindesign.org/) `|`
 [Quaid Morris](http://www.morrislab.ca/) `|`
 [Rediet Abebe](https://www.cs.cornell.edu/~red/) `|`
 [Samantha Morris](http://morrislab.wustl.edu/) `|`
