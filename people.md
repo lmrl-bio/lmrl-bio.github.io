@@ -15,6 +15,7 @@ layout: default
 - Suchi Saria, Johns Hopkins University
 - Jasper Snoek, Google Brain
 - Alex Wiltschko, Google Brain
+- **Anne Carpenter, Boroad Institute**`**`
 - Alex Bloemendal, Broad Institute
 - Wouter Boomsma, University of Copenhagen
 - Danilo Bzdok, RWTH Aachen University
