@@ -16,17 +16,24 @@ LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver 
 [Daphne Koller](https://ai.stanford.edu/users/koller/) `|`
 [Dana Pe’er](https://www.mskcc.org/research/ski/labs/dana-pe-er) `|`
 [Danilo Bzdok](https://danilobzdok.de/) `|`
+[Dan Yamins](https://neuroailab.stanford.edu/) `|`
 [David Jones](http://www0.cs.ucl.ac.uk/staff/D.Jones/) `|`
 [David Reshef](http://web.mit.edu/dnreshef/www/) `|`
 [Debora Marks](https://marks.hms.harvard.edu/) `|`
+[Eli Van Allen](https://vanallenlab.dana-farber.org/) `|`
 [Joshua Weinstein](https://wlab.bio/) `|`
 [Kresten Lindorff-Larsen](https://www1.bio.ku.dk/english/research/bms/research/sbinlab/groups/kll/) `|`
 [Matt Johnson](https://people.csail.mit.edu/mattjj/) `|`
+[Matt Kusner](http://mkusner.github.io/) `|`
 [Max Welling](https://staff.fnwi.uva.nl/m.welling/) `|`
+[Meromit Singer](https://www.singerlab.website/) `|`
 [Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/) `|`
+[Nir HaCohen](https://www.massgeneral.org/cancerresearch/research/researchlab.aspx?id=1644) `|`
 [Pam Silver](https://silver.med.harvard.edu/) `|`
+[Quaid Morris](http://www.morrislab.ca/) `|`
 [Rediet Abebe](https://www.cs.cornell.edu/~red/) `|`
 [Samantha Morris](http://morrislab.wustl.edu/) `|`
+[Scott Linderman](https://vanallenlab.dana-farber.org/) `|`
 [Smita Krishnaswamy](https://www.krishnaswamylab.org/) `|`
 [Soumya Raychaudhuri](https://immunogenomics.hms.harvard.edu/) `|`
 [Suchi Saria](https://suchisaria.jhu.edu/) `|`
