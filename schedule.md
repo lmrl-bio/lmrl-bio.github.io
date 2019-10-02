@@ -10,7 +10,7 @@ The workshop will be held on Friday, December 13 at NeurIPS 2019 in Vancouver. T
 
 LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver Convention Center. Talks and discussions by:
 
-[Anna Goldenberg](https://www.cs.toronto.edu/~goldenberg/Anna_Goldenberg/Home.html) `|`
+
 [Anne Carpenter](https://personal.broadinstitute.org/anne/) `|`
 [Aviv Regev](https://www.broadinstitute.org/regev-lab) `|`
 [Casey Greene](http://www.greenelab.com/) `|`
