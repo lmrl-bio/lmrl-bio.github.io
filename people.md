@@ -19,20 +19,21 @@ layout: default
 - Alex Bloemendal, Broad Institute
 - Wouter Boomsma, University of Copenhagen
 - Danilo Bzdok, RWTH Aachen University
-- Anne Carpenter, Broad Institute
 - Anshul Kundaje, Stanford University
 - Allon Klein, Harvard Medical School
 - Samantha Morris, Washington University
 - Soumya Raychaudhuri, Harvard Medical School
+- Yakir Reshef, Harvard Medical School `*`
 - Nikolai Slavov, Northeastern University
-- Sergey Ovchinnikov, Harvard University
-- Orr Ashenberg, Broad Institute
-- Mor Nitzan, Harvard University
+- Sergey Ovchinnikov, Harvard University `*`
+- Orr Ashenberg, Broad Institute `*`
+- Mor Nitzan, Harvard University `*`
 - **Elizabeth Wood, JURA Bio and Broad Institute**`**`
 - **Ray Jones, Broad Institute**`**`
 - David Kelley, Calico 
 
 `**` Main Organizer 
+`*` Section Faciliator
 
 ## Conference Contacts
 LMRL Team: <a href="mailto:lmrl.neurips.2019@gmail.com">lmrl.neurips.2019@gmail.com</a>
