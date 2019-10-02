@@ -25,6 +25,7 @@ LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver 
 [Max Welling](https://staff.fnwi.uva.nl/m.welling/) `|`
 [Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/) `|`
 [Pam Silver](https://silver.med.harvard.edu/) `|`
+[Rediet Abebe](https://www.cs.cornell.edu/~red/) `|`
 [Samantha Morris](http://morrislab.wustl.edu/) `|`
 [Smita Krishnaswamy](https://www.krishnaswamylab.org/) `|`
 [Soumya Raychaudhuri](https://immunogenomics.hms.harvard.edu/) `|`
