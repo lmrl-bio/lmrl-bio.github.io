@@ -8,7 +8,6 @@ LMRL will be featuring some of the best efforts in biology and machine learning 
 
 LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver Convention Center. Talks and discussions by:
 
-[Anna Goldenberg](https://www.cs.toronto.edu/~goldenberg/Anna_Goldenberg/Home.html) `|`
 [Anne Carpenter](https://personal.broadinstitute.org/anne/) `|`
 [Aviv Regev](https://www.broadinstitute.org/regev-lab) `|`
 [Casey Greene](http://www.greenelab.com/) `|`
