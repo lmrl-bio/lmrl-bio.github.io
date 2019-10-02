@@ -34,7 +34,7 @@ layout: default
 `**` Main Organizer 
 
 ## Conference Contacts
-<a href="mailto:lmrl.neurips.2019@gmail.com">lmrl.neurips.2019@gmail.com</a>
+LMRL Team: <a href="mailto:lmrl.neurips.2019@gmail.com">lmrl.neurips.2019@gmail.com</a>
 
 <img src="/LRML-LF.jpg" width="256">
 
