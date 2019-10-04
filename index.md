@@ -34,6 +34,7 @@ LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver 
 [Quaid Morris](http://www.morrislab.ca/) `|`
 [Rediet Abebe](https://www.cs.cornell.edu/~red/) `|`
 [Samantha Morris](http://morrislab.wustl.edu/) `|`
+[Sara Mostafavi](http://saramostafavi.github.io/) `|`
 [Scott Linderman](https://vanallenlab.dana-farber.org/) `|`
 [Smita Krishnaswamy](https://www.krishnaswamylab.org/) `|`
 [Soumya Raychaudhuri](https://immunogenomics.hms.harvard.edu/) `|`
