@@ -13,6 +13,8 @@ LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver 
 
 [Anne Carpenter](https://personal.broadinstitute.org/anne/) `|`
 [Aviv Regev](https://www.broadinstitute.org/regev-lab) `|`
+[Alan Asparu-Guzik](https://matter.toronto.edu/) `|`
+[Brookes Paige](http://www.robots.ox.ac.uk/~brooks/) `|`
 [Casey Greene](http://www.greenelab.com/) `|`
 [Chang Liu](https://liulab.com/ccl/) `|`
 [Daphne Koller](https://ai.stanford.edu/users/koller/) `|`
