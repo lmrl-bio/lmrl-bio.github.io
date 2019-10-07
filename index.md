@@ -8,8 +8,10 @@ LMRL will be featuring some of the best efforts in biology and machine learning 
 
 LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver Convention Center. Talks and discussions by:
 
-[Anne Carpenter](https://personal.broadinstitute.org/anne/) `|`
 [Aviv Regev](https://www.broadinstitute.org/regev-lab) `|`
+[Anne Carpenter](https://personal.broadinstitute.org/anne/) `|`
+[Alan Asparu-Guzik](https://matter.toronto.edu/) `|`
+[Brookes Paige](http://www.robots.ox.ac.uk/~brooks/) `|`
 [Casey Greene](http://www.greenelab.com/) `|`
 [Chang Liu](https://liulab.com/ccl/) `|`
 [Daphne Koller](https://ai.stanford.edu/users/koller/) `|`
