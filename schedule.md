@@ -21,6 +21,7 @@ LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver 
 [Dana Pe’er](https://www.mskcc.org/research/ski/labs/dana-pe-er) `|`
 [Danilo Bzdok](https://danilobzdok.de/) `|`
 [Dan Yamins](https://neuroailab.stanford.edu/) `|`
+[David Duvenaud](http://www.cs.toronto.edu/~duvenaud/) `|`
 [David Jones](http://www0.cs.ucl.ac.uk/staff/D.Jones/) `|`
 [David Reshef](http://web.mit.edu/dnreshef/www/) `|`
 [Debora Marks](https://marks.hms.harvard.edu/) `|`
@@ -46,3 +47,5 @@ LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver 
 [Suchi Saria](https://suchisaria.jhu.edu/) `|`
 [Wouter Boomsma](https://di.ku.dk/) `|`
 [Yixin Wang](http://www.stat.columbia.edu/~yixinwang/) `|` And more to be announced.
+
+
