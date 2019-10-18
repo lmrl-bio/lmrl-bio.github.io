@@ -17,7 +17,7 @@ layout: default
 - Alex Wiltschko, Google Brain
 - **Anne Carpenter, Broad Institute**`**`
 - Alex Bloemendal, Broad Institute
-- Wouter Boomsma, University of Copenhagen
+- Wouter Boomsma, University of Copenhagen`*`
 - Danilo Bzdok, RWTH Aachen University
 - Anshul Kundaje, Stanford University
 - Allon Klein, Harvard Medical School
@@ -35,6 +35,7 @@ layout: default
 `**` Main Organizer 
 `*` Section Faciliator
 
+
 ## Conference Contacts
 LMRL Team: <a href="mailto:lmrl.neurips.2019@gmail.com">lmrl.neurips.2019@gmail.com</a>
 
@@ -47,11 +48,9 @@ Jonathan Bloom, Broad Institute `|`
 Yakir Reshef, MIT and Harvard Medical School `|`
 Elizabeth Wood, JURA Bio and Broad Institute
 
-## Operations Team
-Molly Gallagher, Broad Institute `|`
-Emma Stickgold, Broad Institute `|`
-Jung-Eun Shin, Harvard University `|`
-Gopal Sarma, Broad Instutute
+## Student Organizing Committee
+- Jung-Eun Shin
+- Isabelle Chambers
 
 ## Contact
 lmrl.neurips.2019@gmail.com
