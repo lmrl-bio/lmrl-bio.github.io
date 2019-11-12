@@ -8,8 +8,40 @@ layout: default
 
 The workshop will be held on Friday, December 13 at NeurIPS 2019 in Vancouver. The workshop aims to bring together experts in machine learning and biology to discuss what is needed -- experimentally and computationally -- to make large-scale progress on identifying meaningful structure in high-dimensional biological systems. We have contributors to facilitate a set of parallel discussions that will be the centerpiece of the day. The discussions will be oriented around different levels of biological abstraction (genome, molecule, cell, and phenotype). We hope you'll join us!
 
-LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver Convention Center. Talks and discussions by:
 
+
+
+|           8:45          |     9:00      | 10:30 |        10:45       |     11:45    |      12:30     |          13:30         | 15:15 |               15:30              |      17:15      |  18:00  |
+|:-----------------------:|:-------------:|:-----:|:------------------:|:------------:|:--------------:|:----------------------:|:-----:|:--------------------------------:|:---------------:|:-------:|
+|         Keynote         |    Keynotes   | Break |      Molecule      |   Synth Bio  |   Lunch/GWAS   |        Phenotype       | Break |               Cell               | Closing Address | Posters |
+| Francis Collins (Video) | Aviv Regev    |       | Quaid Morris       | Chang Liu    | Alex D'Amour   | Nir Hacohen            |       | Anne Carpenter                   | Ila Fiete       |         |
+| Krishan Yeshwant        | Max Welling   |       | Anna Goldenberg    | Pam Silver   | Yixin Wang     | David Reshef           |       | Hui Ting Grace Yeo               | Chris Sander    |         |
+|                         | Daphne Koller |       | David Haussler     | Debora Marks | Sara Mostafavi | Matt Johnson           |       | Jian Zhou                        | Dana Pe'er      |         |
+|                         |               |       | Frank Noe          |              |                | Samantha Morris        |       | Maria Chikina                    |                 |         |
+|                         |               |       | Andrew Blumberg    |              |                | Aurel Nagy             |       | Alexander Tong                   |                 |         |
+|                         |               |       | Djork-Arne Clevert |              |                | Gokcen Eraslan         |       | Benjamin Lengerich               |                 |         |
+|                         |               |       | Michael Keiser     |              |                | Meromit Singer         |       | Aly O. Abdelkareem               |                 |         |
+|                         |               |       | Alan Asparu-Guzik  |              |                | Eli van Allen          |       | Gokcen Eraslan                   |                 |         |
+|                         |               |       | David Duvenaud     |              |                | Smita Krishnaswamy     |       | Andrew Blumberg                  |                 |         |
+|                         |               |       | Possu Huang        |              |                | Casey Greene           |       | Stephen Ra                       |                 |         |
+|                         |               |       | David Jones        |              |                | Scott Linderman        |       | Daniel Burkhardt                 |                 |         |
+|                         |               |       |                    |              |                | Alex Bloemendal        |       | Emanuel Flores Bautista          |                 |         |
+|                         |               |       |                    |              |                | Alex Wiltschko         |       | Frederick Matsen                 |                 |         |
+|                         |               |       |                    |              |                | Dylan Kotliar          |       | Alan Moses                       |                 |         |
+|                         |               |       |                    |              |                | James Zou              |       | Zhenghao Chen                    |                 |         |
+|                         |               |       |                    |              |                | Brendan Bulik-Sullivan |       | Marzieh Haghighi                 |                 |         |
+|                         |               |       |                    |              |                |                        |       | Alex Lu                          |                 |         |
+|                         |               |       |                    |              |                |                        |       | Geoffrey Schau                   |                 |         |
+|                         |               |       |                    |              |                |                        |       | Jeff Nivala                      |                 |         |
+|                         |               |       |                    |              |                |                        |       | Luke O'Connor                    |                 |         |
+|                         |               |       |                    |              |                |                        |       | Miriam Shiffman                  |                 |         |
+|                         |               |       |                    |              |                |                        |       | Hannes Harbrecht                 |                 |         |
+|                         |               |       |                    |              |                |                        |       | Shimbi Masengo Wa Umba Papa Levi |                 |         |
+
+
+
+
+LRML at NeurIPS will begin at 8:45am on Friday, December 13th, at the Vancouver Convention Center. Talks and discussions by:
 
 [Anne Carpenter](https://personal.broadinstitute.org/anne/) `|`
 [Aviv Regev](https://www.broadinstitute.org/regev-lab) `|`
