@@ -14,8 +14,8 @@ The workshop will be held on Friday, December 13 at NeurIPS 2019 in Vancouver. T
 |           8:45          |     9:00      | 10:30 |        10:45       |     11:45    |      12:30     |          13:30         | 15:15 |               15:30              |      17:15      |  18:00  |
 |:-----------------------:|:-------------:|:-----:|:------------------:|:------------:|:--------------:|:----------------------:|:-----:|:--------------------------------:|:---------------:|:-------:|
 |         Keynote         |    Keynotes   | Break |      Molecule      |   Synth Bio  |   Lunch/GWAS   |        Phenotype       | Break |               Cell               | Closing Address | Posters |
-| Francis Collins (Video) | Aviv Regev    |       | Barbara Englehardt       | Chang Liu    | Alex D'Amour   | Nir Hacohen            |       | Anne Carpenter                   | Ila Fiete       |         |
-| Krishan Yeshwant        | Max Welling   |       | Jennifer Wei    | Pam Silver   | Yixin Wang     | David Reshef           |       | Hui Ting Grace Yeo               | Chris Sander    |         |
+| Francis Collins (Video) | Aviv Regev    |       | Barbara Englehardt       | Pam Silver    | Alex D'Amour   | Nir Hacohen            |       | Anne Carpenter                   | Ila Fiete       |         |
+| Krishan Yeshwant        | Max Welling   |       | Jennifer Wei    | Chang Liu   | Yixin Wang     | David Reshef           |       | Hui Ting Grace Yeo               | Chris Sander    |         |
 |                         | Daphne Koller |       | David Haussler     | Possu Huang  | Sara Mostafavi | Matt Johnson           |       | Jian Zhou                        | Dana Pe'er      |         |
 |                         |               |       | David Jones           |              |                | Samantha Morris        |       | Maria Chikina                    |                 |         |
 |                         |               |       | David Duvenaud   |              |                | Aurel Nagy             |       | Alexander Tong                   |                 |         |
