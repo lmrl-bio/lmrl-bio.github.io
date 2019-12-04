@@ -4,7 +4,7 @@ layout: default
 
 ## Participate
 
-LMRL will be featuring some of the best efforts in biology and machine learning to spur the next generation of data-driven biological problem-solving. An emphasis on interpretable learning of structure and principles will be applied to work on the level of the **genome, molecule, cells, and phenotype**. The call for abstracts and travel awards has closed; to join the conference, please  [submit a poster proposal](https://lmrl-bio.github.io/call) by October 20. We hope you'll join us!
+LMRL will be featuring some of the best efforts in biology and machine learning to spur the next generation of data-driven biological problem-solving. An emphasis on interpretable learning of structure and principles will be applied to work on the level of the **genome, molecule, cells, and phenotype**. 
 
 LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver Convention Center. Talks and participation by:
 
@@ -56,6 +56,6 @@ LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver 
 
 ## Conference Live-Cast
 
-<a href = "mailto: lmrl.neurips.2019@gmail.com">Join our mailing list</a> to receive announcements and details about the day's live-cast.
+<a href = "mailto: lmrl.neurips.2019@gmail.com">Join our mailing list</a> to receive announcements and details about the day's live-cast. A booklet of participants is forthcoming, as is a slack channel.
 <a href="https://twitter.com/lmrl_bio?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @lmrl_bio</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
