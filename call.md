@@ -13,6 +13,7 @@ Deadlines are by 11:59PM, PDT.
 * [x] October 1: Poster Call announced.
 * [x] October 20: Poster Call closes.
 * [x] October 25: Second round of notifications of selection and travel awards.
-* [ ] December 1: Deadline for uploading posters and slides.
+* [x] December 1: Deadline for uploading posters and slides.
+* [ ] December 10: Participant booklet published.
 
 Questions? Contact us at <a href = "mailto: lmrl.neurips.2019@gmail.com">lmrl.neurips.2019@gmail.com</a>
