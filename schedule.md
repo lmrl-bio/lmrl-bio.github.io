@@ -30,7 +30,7 @@ The workshop will be held on Friday, December 13 at NeurIPS 2019 in Vancouver. T
 |                         |               |       |                    |              |                | Dylan Kotliar          |       | Alan Moses                       |                 |         |
 |                         |               |       |                    |              |                | James Zou              |       | Zhenghao Chen                    |                 |         |
 |                         |               |       |                    |              |                | Brendan Bulik-Sullivan |       | Marzieh Haghighi                 |                 |         |
-|                         |               |       |                    |              |                | Sam Morris                   |       | Alex Lu                          |                 |         |
+|                         |               |       |                    |              |                |                   |       | Alex Lu                          |                 |         |
 |                         |               |       |                    |              |                |                        |       | Geoffrey Schau                   |                 |         |
 |                         |               |       |                    |              |                |                        |       | Jeff Nivala                      |                 |         |
 |                         |               |       |                    |              |                |                        |       | Luke O'Connor                    |                 |         |
