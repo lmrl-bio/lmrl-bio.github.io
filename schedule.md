@@ -16,7 +16,7 @@ The workshop will be held on Friday, December 13 at NeurIPS 2019 in Vancouver. T
 |         Keynote         |    Keynotes   | Break |      Molecule      |   Synth Bio  |   Poster I  |        Phenotype       | Break |               Cell               | Closing Address | Poster II |
 | Francis Collins (Video) | Aviv Regev    |       | Barbara Englehardt       | Pam Silver    |   | Nir Hacohen            |       | Anne Carpenter                   | Ila Fiete       |         |
 | Krishan Yeshwant        | Max Welling   |       | Jennifer Wei    | Chang Liu   |     | David Reshef           |       | Hui Ting Grace Yeo               | Chris Sander    |         |
-|                         | Daphne Koller |       | David Haussler     | Possu Huang  | | Matt Johnson           |       | Jian Zhou                        | Dana Pe'er      |         |
+|                         | Daphne Koller in conversation with Debora Marks|       | David Haussler     | Possu Huang  | | Matt Johnson           |       | Jian Zhou                        | Dana Pe'er      |         |
 |                         |               |       | David Jones           |              |                | Samantha Morris        |       | Maria Chikina                    |                 |         |
 |                         |               |       | David Duvenaud   |              |                | Aurel Nagy             |       | Alexander Tong                   |                 |         |
 |                         |               |       | Alan Asparu-Guzik |              |                | Gokcen Eraslan         |       | Benjamin Lengerich               |                 |        |
