@@ -49,7 +49,10 @@ LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver 
 [Soumya Raychaudhuri](https://immunogenomics.hms.harvard.edu/) `|`
 [Suchi Saria](https://suchisaria.jhu.edu/) `|`
 [Wouter Boomsma](https://di.ku.dk/) `|`
-[Yixin Wang](http://www.stat.columbia.edu/~yixinwang/) `|` And more to be announced.
+[Yixin Wang](http://www.stat.columbia.edu/~yixinwang/) `|` 
+[Itsik Pe'er](http://www.cs.columbia.edu/~itsik/) `|`
+[Chris Sander](http://sanderlab.org/) `|`
+[Tsuyoshi Okita](http://150.69.83.101/tsuyoshi/index.html) `|` And more to be announced.
 
 
 ***
