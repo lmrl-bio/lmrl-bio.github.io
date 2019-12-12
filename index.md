@@ -6,7 +6,7 @@ layout: default
 
 LMRL will be featuring some of the best efforts in biology and machine learning to spur the next generation of data-driven biological problem-solving. An emphasis on interpretable learning of structure and principles will be applied to work on the level of the **genome, molecule, cells, and phenotype**. 
 
-LRML at NeurIPS will begin at 9:00am on Friday, December 13th, at the Vancouver Convention Center. Talks and participation by:
+LRML at NeurIPS will begin at 8:30am on Friday, December 13th, at the Vancouver Convention Center. If you are presenting a poster, make sure to arrive between 7:30-8:30am to hang it. Talks and participation by:
 
 [Aviv Regev](https://www.broadinstitute.org/regev-lab) `|`
 [Anne Carpenter](https://personal.broadinstitute.org/anne/) `|`
