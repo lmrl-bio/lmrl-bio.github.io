@@ -3,6 +3,11 @@ layout: default
 ---
 
 ## Speakers and co-organizers
+- **Elizabeth Wood, JURA Bio and Broad Institute**`**`
+- **Debora Marks, Harvard Medical School**`**`
+- **Anne Carpenter, Broad Institute**`**`
+- **Ray Jones, Broad Institute**`**`
+- **Yakir Reshef, Harvard Medical School**`**`
 - Aviv Regev, Broad Institute
 - Daphne Koller, insitro
 - Rediet Abebe, Cornell University
@@ -11,11 +16,9 @@ layout: default
 - Scott Linderman, Stanford University
 - Kresten Lindorff-Larsen, University of Copenhagen
 - Chang Liu, University of California Irvine
-- **Debora Marks, Harvard Medical School**`**`
 - Suchi Saria, Johns Hopkins University
 - Jasper Snoek, Google Brain
 - Alex Wiltschko, Google Brain
-- **Anne Carpenter, Broad Institute**`**`
 - Alex Bloemendal, Broad Institute
 - Wouter Boomsma, University of Copenhagen`*`
 - Danilo Bzdok, RWTH Aachen University
@@ -28,9 +31,6 @@ layout: default
 - Sergey Ovchinnikov, Harvard University `*`
 - Orr Ashenberg, Broad Institute `*`
 - Mor Nitzan, Harvard University `*`
-- **Elizabeth Wood, JURA Bio and Broad Institute**`**`
-- **Ray Jones, Broad Institute**`**`
-- David Kelley, Calico 
 
 `**` Main Organizer 
 `*` Section Faciliator
@@ -47,10 +47,6 @@ ____
 Jonathan Bloom, Broad Institute `|` 
 Yakir Reshef, MIT and Harvard Medical School `|`
 Elizabeth Wood, JURA Bio and Broad Institute
-
-## Student Organizing Committee
-- Jung-Eun Shin
-- Isabelle Chambers
 
 ## Contact
 lmrl.neurips.2019@gmail.com
