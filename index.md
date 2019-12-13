@@ -4,7 +4,7 @@ layout: default
 
 ## Livestream
 The workshop will be streamed by NeurIPS at these links:
-[Session 1](https://slideslive.com/38921959/learning-meaningful-representations-of-life-1), [Session 2](https://slideslive.com/38921960/learning-meaningful-representations-of-life-2), [Session 3](https://slideslive.com/38921961/learning-meaningful-representations-of-life-3).
+[Session 1](https://slideslive.com/38921959/learning-meaningful-representations-of-life-1), [Session 2](https://slideslive.com/38921960/learning-meaningful-representations-of-life-2), [Session 3](https://slideslive.com/38921961/learning-meaningful-representations-of-life-3), [Session 4](https://slideslive.com/38921963/learning-meaningful-representations-of-life-4).
 
 ## Participate
 
