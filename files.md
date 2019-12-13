@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Slides
-0. [Biological data crash course](https://lmrl-bio.github.io/hostedfiles/datacrashcourse.pptx)
+0. [Biological data crash course](https://lmrl-bio.github.io/hostedfiles/datacrashcourse.pdf)
 1. [Understanding pediatric cancers at the single-cell level... from bulk tissue](https://lmrl-bio.github.io/hostedfiles/c1.slides.pptx)
 2. [Learning latent phenotypes from biobanks](https://lmrl-bio.github.io/hostedfiles/c2.slides.pptx)
 3. [Using ground-truth lineage tracing to infer differentiation trajectories](https://lmrl-bio.github.io/hostedfiles/c3.slides.pptx)
