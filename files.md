@@ -11,3 +11,6 @@ layout: default
 ## Handouts
 1. [Wrinkles](https://lmrl-bio.github.io/hostedfiles/handout1.pdf)
 2. [Example approaches](https://lmrl-bio.github.io/hostedfiles/handout2.pdf)
+
+### Licensing
+All of the above files are licensed under a Creative Commons Attribution (CC BY) license.
