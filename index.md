@@ -2,6 +2,9 @@
 layout: default
 ---
 
+## Livestream
+The workshop will be streamed at https://slideslive.com/38921959/learning-meaningful-representations-of-life-1.
+
 ## Participate
 
 LMRL will be featuring some of the best efforts in biology and machine learning to spur the next generation of data-driven biological problem-solving. An emphasis on interpretable learning of structure and principles will be applied to work on the level of the **genome, molecule, cells, and phenotype**. 
@@ -57,8 +60,5 @@ LRML at NeurIPS will begin at 8:30am on Friday, December 13th, at the Vancouver 
 
 ***
 
-## Conference Live-Cast
-
-<a href = "mailto: lmrl.neurips.2019@gmail.com">Join our mailing list</a> to receive announcements and details about the day's live-cast. A booklet of participants is forthcoming, as is a slack channel.
 <a href="https://twitter.com/lmrl_bio?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @lmrl_bio</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
